@@ -50,7 +50,7 @@
     "refa": "^0.7.0",
     "regexpp": "^2.0.1",
     "scslre": "^0.1.1",
-    "simple-git": "^1.107.0",
+    "simple-git": "^3.16.0",
     "webfont": "^9.0.0",
     "yargs": "^13.2.2"
   },
